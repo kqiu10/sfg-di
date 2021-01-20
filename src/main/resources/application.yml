@@ -1,0 +1,11 @@
+jms:
+  username: JMS
+  password: somepass
+  url: Someurl
+
+
+---
+spring:
+  profiles: de
+jms:
+  username: JMS Username &&&
